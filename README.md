@@ -1,4 +1,4 @@
-# Samachar — News Portal
+# Daily Desh — News Portal
 
 Next.js 15 (App Router) + TypeScript + Tailwind + Supabase.
 Public news site + admin CMS + auth, all in one repo. No server to manage.
